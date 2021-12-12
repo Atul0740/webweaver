@@ -1,0 +1,21 @@
+section {
+    padding: 50px 0px;
+    height: 80vh;
+    text-align: center;
+}
+
+.toparea {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.top-destination {
+    width: 80vw;
+    height: 55vh;
+    text-align: center;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}

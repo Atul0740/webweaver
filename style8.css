@@ -1,0 +1,14 @@
+main {
+    padding: 100px 100px;
+    background: #b2c0ce;
+}
+
+.hotels {
+    z-index: 1;
+}
+
+@media(max-width:810px) {
+    main {
+        padding: 100px 0px;
+    }
+}
